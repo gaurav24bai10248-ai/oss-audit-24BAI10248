@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 2: FOSS Package Inspector
-# Author: Ansh Arora
+# Author: Gaurav Solanki 
 
 # Chosen package
 PACKAGE="python3"
